@@ -1,0 +1,35 @@
+[
+  
+    {
+      "title"    : "[리뷰] Training Compute-Optimal Large Language Models",
+      "description" : "",
+      "tags"     : "NLP, LLM",
+      "url"      : "/chinchilla-scaling-laws/",
+      "date"     : "2024-01-29 11:58:47 +0900"
+    } ,
+  
+    {
+      "title"    : "[리뷰] LLaMA: Open and Efficient Foundation Language Models",
+      "description" : "",
+      "tags"     : "NLP, LLM, Generative AI, Foundation Models",
+      "url"      : "/LLaMA-1/",
+      "date"     : "2023-12-24 11:58:47 +0900"
+    } ,
+  
+    {
+      "title"    : "Google &quot;We Have No Moat, And Neither Does OpenAI&quot;",
+      "description" : "",
+      "tags"     : "NLP",
+      "url"      : "/google-we-have-no-moat-and-neither/",
+      "date"     : "2023-12-02 12:30:47 +0900"
+    } ,
+  
+    {
+      "title"    : "[리뷰] LoRA: Low-Rank Adaptation of Large Language Models",
+      "description" : "",
+      "tags"     : "NLP, LLM, PEFT",
+      "url"      : "/LoRA/",
+      "date"     : "2023-11-26 11:58:47 +0900"
+    } 
+  
+]
